@@ -1,1 +1,3 @@
 # dina
+
+Alguns códigos úteis
